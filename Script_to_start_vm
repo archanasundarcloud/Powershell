@@ -1,6 +1,6 @@
 try
 {
-    "Logging in to Azure VM2..."
+    "Logging in to Azure VM3..."
     Connect-AzAccount -Identity
 }
 catch {
